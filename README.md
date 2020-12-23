@@ -6,3 +6,6 @@ This is some stuff for among us modding
 * [dnSpy](https://github.com/dnSpy/dnSpy)
 * [Il2cppInspector](https://github.com/djkaty/Il2CppInspector)
 * [Bepinex](https://github.com/BepInEx/BepInEx) (Bleeding edge)
+## Templates
+* [CodeIsNotAmongUs](https://github.com/js6pak/CodeIsNotAmongUs)
+* [VentingCrew](https://github.com/gabriel-nsiqueira/VentingCrew)
